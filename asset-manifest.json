@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/new-calci/static/css/main.118fe990.chunk.css",
+    "main.js": "/new-calci/static/js/main.4a1425b8.chunk.js",
+    "main.js.map": "/new-calci/static/js/main.4a1425b8.chunk.js.map",
+    "runtime-main.js": "/new-calci/static/js/runtime-main.33f4cbcb.js",
+    "runtime-main.js.map": "/new-calci/static/js/runtime-main.33f4cbcb.js.map",
+    "static/js/2.a4ab6eff.chunk.js": "/new-calci/static/js/2.a4ab6eff.chunk.js",
+    "static/js/2.a4ab6eff.chunk.js.map": "/new-calci/static/js/2.a4ab6eff.chunk.js.map",
+    "static/js/3.88f5c094.chunk.js": "/new-calci/static/js/3.88f5c094.chunk.js",
+    "static/js/3.88f5c094.chunk.js.map": "/new-calci/static/js/3.88f5c094.chunk.js.map",
+    "index.html": "/new-calci/index.html",
+    "static/css/main.118fe990.chunk.css.map": "/new-calci/static/css/main.118fe990.chunk.css.map",
+    "static/js/2.a4ab6eff.chunk.js.LICENSE.txt": "/new-calci/static/js/2.a4ab6eff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/new-calci/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f4cbcb.js",
+    "static/js/2.a4ab6eff.chunk.js",
+    "static/css/main.118fe990.chunk.css",
+    "static/js/main.4a1425b8.chunk.js"
+  ]
+}
